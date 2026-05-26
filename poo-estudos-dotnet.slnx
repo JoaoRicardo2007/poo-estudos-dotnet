@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CarrinhoCompras/CarrinhoCompras.csproj" Id="b2a9ea76-4569-4e92-b4e1-3069d9a140c8" />
+  <Project Path="ContaBancaria/ContaBancaria.csproj" />
+  <Project Path="ProdutoEstoque/ProdutoEstoque.csproj" />
+</Solution>
